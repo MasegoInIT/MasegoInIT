@@ -1,6 +1,6 @@
 - 👋 Well, Hello World! I am Masego
 - 👀I am a self-taught coder and creator. I like to make stuff, and learn from others too.
-- 🌱 I am currently a supply chain professional transitioning to a Web Developer and occasional UI/UX Designer who loves making high-quality websites and applications.
+- 🌱 I am currently a supply chain professional transitioning to a Data Scientist.
 - 📫 How to reach me: linkedin.com/in/masegojbanda 
 
 <!---
